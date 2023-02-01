@@ -1,0 +1,4 @@
+services.notegenerator.imp.NoteGenerator
+services.osmanager.imp.OSManager
+services.persister.imp.Persister
+services.remover.imp.Remover
